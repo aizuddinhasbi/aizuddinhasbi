@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aizuddinhasbi
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning full-stack web development + data analyst
-- 💞️ I’m looking to collaborate on web development
+- 🌱 I’m currently learning full-stack software development + data analyst
+- 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me? through my email: aizuddinhasbi[a]gmail.com
 
 <!---
